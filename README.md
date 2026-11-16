@@ -22,7 +22,7 @@
 | `seedream4.0` | Seedream 4.0 |
 | `seedream5.0Pro` | Seedream 5.0 Pro，会员模型，需 `allow_pro: true` |
 
-默认 `seedream5.5`。实际可用模型和额度取决于登录账号及网页；缺少对应菜单时返回 `MODEL_UNAVAILABLE`。1.1.0 已修正早期 Pro 参数拼写；旧拼写不再接受。
+默认 `seedream5.5`。实际可用模型和额度取决于登录账号及网页；缺少对应菜单时返回 `MODEL_UNAVAILABLE`。
 
 ## 环境与安装
 
