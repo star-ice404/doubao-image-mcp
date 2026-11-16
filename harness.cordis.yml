@@ -1,0 +1,15 @@
+# Replace /ABSOLUTE/PATH/doubao-image-mcp with your checkout path.
+# Windows also accepts forward slashes, for example C:/projects/doubao-image-mcp.
+- insert:
+    - id: doubao-image-mcp
+      name: '@deepseek-ai/dsh-mcp-client'
+      config:
+        serverName: doubao
+        transport: stdio
+        command: node
+        args:
+          - '/ABSOLUTE/PATH/doubao-image-mcp/src/server.mjs'
+        cwd: '/ABSOLUTE/PATH/doubao-image-mcp'
+        env: {}
+        toolCallTimeoutMs: 960000
+        startupTimeoutMs: 30000

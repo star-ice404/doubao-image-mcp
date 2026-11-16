@@ -1,0 +1,9 @@
+[
+  "src/browser.mjs", "src/core.mjs", "src/config.mjs", "src/server.mjs", "src/cli.mjs",
+  "tests/core.test.mjs", "tests/protocol.test.mjs", "tests/config.test.mjs",
+  "scripts/verify-harness.mjs", "scripts/release-check.mjs", "scripts/stage-release.mjs",
+  "examples/text-to-image.json", "examples/reference-image.json",
+  "package.json", "package-lock.json", "README.md", "LICENSE", "NOTICE",
+  "CONTRIBUTING.md", "SECURITY.md", "CHANGELOG.md", ".gitignore", "harness.cordis.yml", "mcp.json",
+  "release-files.json", ".github/workflows/ci.yml"
+]

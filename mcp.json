@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "doubao": {
+      "command": "node",
+      "args": ["/ABSOLUTE/PATH/doubao-image-mcp/src/server.mjs"],
+      "env": {}
+    }
+  }
+}

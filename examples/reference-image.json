@@ -1,0 +1,7 @@
+{
+  "prompt": "保持参考图主体与画风，让角色戴上一顶黄色小帽子，浅色背景",
+  "model": "seedream5.0fast",
+  "aspect_ratio": "auto",
+  "reference_images": ["/ABSOLUTE/PATH/reference.png"],
+  "timeout_seconds": 300
+}

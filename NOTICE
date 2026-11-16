@@ -1,0 +1,12 @@
+doubao-image-mcp is an independent, unofficial browser automation project.
+It is not affiliated with or endorsed by ByteDance, Doubao, or DeepSeek.
+Doubao and Seedream names identify the third-party service being automated.
+
+The MIT license applies to this project's source code. It does not grant rights
+to third-party services, model outputs, reference images, accounts, or trademarks.
+No browser binary, account session, reference image, or generated image is shipped.
+
+Direct runtime dependencies (installed separately through npm):
+- @modelcontextprotocol/sdk: MIT
+- playwright-core: Apache-2.0
+See the installed packages for their complete license and dependency notices.
